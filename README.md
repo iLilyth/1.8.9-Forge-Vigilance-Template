@@ -3,7 +3,7 @@ A template that's fully functional as of March 31st, 2023 @ 20:00. Uses Shadowja
 
 All of the Vigilance examples either A. use kotlin B. dont work or C. dont compile. However, this (as of the initial release date) works perfectly.
 
-#Implementation
+# Implementation
 This distribution uses
 ```
        java   8
