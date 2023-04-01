@@ -1,14 +1,14 @@
 [
 {
-  "modid": "dsne",
-  "name": "DSNEforge",
-  "description": "Utility mod for Dragsim.net",
+  "modid": "examplemod",
+  "name": "ExampleMod",
+  "description": "Mod template for vigilance",
   "version": "1.0",
   "mcversion": "1.8.9",
   "url": "",
   "updateUrl": "",
-  "authorList": ["iLilyth", "dxxxxy"],
-  "credits": "The Forge and FML guys, for making this example. dxxxxy for fixing it.",
+  "authorList": ["iLilyth", "dxxxxy", "sk1er", "Essentials team"],
+  "credits": "The Forge and FML guys, for making this example. dxxxxy for fixing it. iLilyth for fixing it again.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
