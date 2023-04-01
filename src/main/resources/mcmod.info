@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dsne",
+  "name": "DSNEforge",
+  "description": "Utility mod for Dragsim.net",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["iLilyth", "dxxxxy"],
+  "credits": "The Forge and FML guys, for making this example. dxxxxy for fixing it.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
